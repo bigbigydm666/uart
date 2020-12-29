@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ydm/Codes/UART2/main.cpp
+serialPort.hpp
+/home/ydm/Codes/UART2/serialPort.hpp
+iostream
+-
+string
+-
+
+/home/ydm/Codes/UART2/serialPort.cpp
+serialPort.hpp
+/home/ydm/Codes/UART2/serialPort.hpp
+string.h
+-
+sys/ioctl.h
+-
+
+/home/ydm/Codes/UART2/serialPort.hpp
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+sys/types.h
+-
+sys/stat.h
+-
+fcntl.h
+-
+sys/termios.h
+-
+errno.h
+-
+stdint.h
+-
+

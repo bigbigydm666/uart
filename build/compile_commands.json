@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/ydm/Codes/UART2/build",
+  "command": "/usr/bin/c++   -I/home/ydm/Codes/UART/uart  -g   -o CMakeFiles/run.dir/main.cpp.o -c /home/ydm/Codes/UART2/main.cpp",
+  "file": "/home/ydm/Codes/UART2/main.cpp"
+},
+{
+  "directory": "/home/ydm/Codes/UART2/build",
+  "command": "/usr/bin/c++   -I/home/ydm/Codes/UART/uart  -g   -o CMakeFiles/run.dir/serialPort.cpp.o -c /home/ydm/Codes/UART2/serialPort.cpp",
+  "file": "/home/ydm/Codes/UART2/serialPort.cpp"
+}
+]
